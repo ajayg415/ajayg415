@@ -33,6 +33,7 @@
 <img align="left" title="Angular" alt="Angular" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img align="left" title="Spring" alt="Spiring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" title="Jenkins" alt="Jenkins" width="26px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img align="left" title="webpack" alt="Webpack" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
 
 <br/><br/><br/>
 
