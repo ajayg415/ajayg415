@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Hyderabad, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayg415" alt="ajayg415" /> </p>
 
-- 🔭 I’m currently working on NCR **Aloha POS Tablet application, developing using React Native**
+- 🔭 I’m currently working for Aviso AI as a Lead Software Engineer.
 
 
 ### Connect with me:
